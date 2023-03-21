@@ -11,4 +11,4 @@ the implied warranties of merchantability and fitness for a particular purpose.
 The author will not be liable for any special, incidental, consequential or indirect damages due to loss of data or any other reason.
 
 WARNING: Because this code is made by me (Alex may 9), it is VERY messy, and not well described 
-(Just so you know, and if your looking into it, have fun solving what I have written :D)
+(Just so you know, and if your looking into it, have fun figuring out what I have written :D)
