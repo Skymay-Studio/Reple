@@ -1,12 +1,11 @@
 # RePle
-     Program made by Skymay Studio (more precisely Alex may 9)
+     Script by Skymay Studio
 
 ### Small description:
 RePle (Rename Multiple) was created by me to solve one small, but annoying manual task: Renaming multiple files.
 
 Later down the road, I discovered other pieces of software that already did this task WAY better than this program 
 and that even windows has such a functionality. So I abandoned this project.
-
 
 ### Disclaimer: 
 The software is provided "AS IS" without any warranty, either expressed or implied, including, but not limited to,
